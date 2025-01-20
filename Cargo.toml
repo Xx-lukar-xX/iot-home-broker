@@ -1,5 +1,5 @@
 [package]
-name = "iot-home-server"
+name = "iot-home-broker"
 version = "0.1.0"
 edition = "2021"
 
